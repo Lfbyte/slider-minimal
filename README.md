@@ -1,5 +1,5 @@
 # Slider-Minimal
-Um slider/carousel minimalista e elegante.
+Slider/carousel minimalista.
 ----
 
 ![image_1](https://github.com/TronGuy/Slider-Minimal/blob/main/imagens_do_projeto/responsive.png)
